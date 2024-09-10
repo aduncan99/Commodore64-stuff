@@ -1,0 +1,17 @@
+10 print"hello world"
+20 rem use print command to display string
+30 rem use rem as comment thing like // in js
+40 input"hows it going";a$
+50 rem displays string, stores user input and stores in variable a$
+60 rem variables with $ store strings
+70 rem variables without $ store numbers
+80 rem command end terminates the program when executed
+90 Goto 110
+100 rem goto goes forward or back to specified line number
+110 for t = 1 to 10 step 1
+120 rem loop code
+130 rem for variable = start to end step step
+140 rem use next variable to repeat
+150 next t
+160 rem : seperates commands
+170 print"exapmle":rem ...
